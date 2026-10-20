@@ -11,7 +11,7 @@ The Postman collection documents structured API requests and responses for acade
 - Creation, retrieval and query workflows
 - Academic use of synthetic data
 - ## Tools
-- - Postman
+- Postman
 - HL7 FHIR / openEHR REST APIs
 - GitHub
 - ## Data protection
